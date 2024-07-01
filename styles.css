@@ -26,13 +26,13 @@ h1 {
 
 .background-image {
     width: 100%;
-    height: auto;
+    height:0 auto;
 }
 
 .content {
     position: absolute;
-    top: 30%;
-    left: 50%;
+    top: 0%;
+    left: 0%;
     transform: translate(-50%, -30%);
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
@@ -50,7 +50,7 @@ ul li {
 
 footer {
     background: rgba(0, 0, 0, 0.7);
-    padding: 20px;
+    padding: 40px;
 }
 
 .footer-content {
@@ -94,7 +94,7 @@ h1 {
     margin: 0;
 }
 
-.image-container {
+.imagem-container {
     position: relative;
     width: 1213px;
     height: 720px;
